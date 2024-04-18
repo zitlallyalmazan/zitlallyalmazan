@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-# I'm Zitlally, a software engineer from Salt Lake City, UT.
+I'm Zitlally, a software engineer from Salt Lake City, UT.
 
-# I'm primarily interested in ###game development### and currently working as a front-end developer @Mobiledash. 
+I'm primarily interested in ###game development### and currently working as a front-end developer @Mobiledash. 
 
-# I'm fascinated by large-scale, innovated games, but will always have a soft spot for a visually simple 2D RPG horror game. I focus on builidng games as fun personal projects in hopes to create a game loved by a few people. 
+I'm fascinated by large-scale, innovated games, but will always have a soft spot for a visually simple 2D RPG horror game. I focus on builidng games as fun personal projects in hopes to create a game loved by a few people. 
 
-# Outside of work, I'm interested in the developments of science. I also play a lot of video games and enjoy a good horror or historical fiction book. 
+Outside of work, I'm interested in the developments of science. I also play a lot of video games and enjoy a good horror or historical fiction book. 
 
-# Let's connect!
+Let's connect!
 <!--
 **zitlallyalmazan/zitlallyalmazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
