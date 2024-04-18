@@ -2,7 +2,7 @@
 
 I'm Zitlally, a software engineer from Salt Lake City, UT.
 
-I'm primarily interested in **game development** and currently working as a front-end developer [@MEliteRoofing](https://github.com/eliteroofing). 
+I'm primarily interested in **game development** and currently working as a front-end developer [@EliteRoofing](https://github.com/eliteroofing). 
 
 I'm fascinated by large-scale, innovated games, but will always have a soft spot for a visually simple 2D RPG horror game. I focus on builidng games as fun personal projects in hopes to create a game loved by a few people. 
 
