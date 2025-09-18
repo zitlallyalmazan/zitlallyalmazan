@@ -4,7 +4,7 @@ I'm Zitlally, a software engineer from Salt Lake City, UT.
 
 I'm primarily interested in **game development** and currently working as a web developer [@HireMySub](https://hiremysub.com/home). 
 
-I'm fascinated by large-scale, innovated games, but will always have a soft spot for a visually simple 2D RPG horror game. I focus on builidng games as fun personal projects in hopes to create a game loved by even a few people. 
+I'm fascinated by large-scale, innovated games, but will always have a soft spot for a visually simple 2D RPG horror game. I focus on building games as fun personal projects in hopes to create a game loved by even a few people. 
 
 Outside of work, I'm interested in the developments of science. I also play a lot of video games and enjoy a good horror or historical fiction book. 
 
